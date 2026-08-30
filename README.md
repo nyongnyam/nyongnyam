@@ -8,7 +8,17 @@
     </div>
 
 ## 프로젝트 경험
+---
 
+### 교통사고 사망자 데이터를 통한 사고 유형 및 원인 분석
+> Jupyter Lab, Gradio 기반 개인 프로젝트
+
+- **기간:** 2021.12 ~ 2021.12
+- **역할:** 프로젝트 전반
+- **주요 기능:**
+    - Jupyter Lab을 통한 csv 파일 분석 및 시각화
+    - Gradio를 통한 UI 구현
+- **GitHub Repo:** [nyongnyam/Traffic_Accident_Fatality](https://github.com/nyongnyam/Traffic_Accident_Fatality)
 ---
 
 ### Danchive
@@ -33,18 +43,6 @@
     - Tableau를 활용한 데이터 시각화 및 인사이트 도출
     - 결측률/이상 요금/적재 행 수 등을 자동으로 품질 검사 진행 및 로그 파일 자동 생성
 - **GitHub Repo:** [nyongnyam/NYC_Taxi](https://github.com/nyongnyam/NYC_Taxi)
-
----
-
-### 교통사고 사망자 데이터를 통한 사고 유형 및 원인 분석
-> Jupyter Lab, Gradio 기반 개인 프로젝트
-
-- **기간:** 2021.12 ~ 2021.12
-- **역할:** 프로젝트 전반
-- **주요 기능:**
-    - Jupyter Lab을 통한 csv 파일 분석 및 시각화
-    - Gradio를 통한 UI 구현
-- **GitHub Repo:** [nyongnyam/Traffic_Accident_Fatality](https://github.com/nyongnyam/Traffic_Accident_Fatality)
 
 ---
 
