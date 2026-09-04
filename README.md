@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hey🖐️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 데이터를 이용해 가치를 창출하는 것을 즐기는 개발자 최혁준입니다. 데이터 분석, ETL 파이프라인, AI 엔지니어링에 관심을 가지고 있습니다.</li></li>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 데이터를 이용해 가치를 창출하는 것을 즐기는 최혁준입니다. 데이터 분석, ETL 파이프라인, AI 엔지니어링에 관심을 가지고 있습니다.</li></li>
      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 연혁 </h2>  </li><li> 단국대학교 소프트웨어학과 2020.03. ~ 2026. 02.</li><li> 단국대학교 AI Academy</li>2021.12 ~ 2022.01</li><li> Project MOD</li>2021.12 ~ 2022.02</li><li> SSAFY 16TH</li>2026.07. ~  </div> 
     </div>
 
