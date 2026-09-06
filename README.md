@@ -26,7 +26,7 @@
 
 - **기간:** 2025.08 ~ 2025.12
 - **소개:** 기존 졸업 작품 전시회보다 운영자 입장의 편의성을 제공하는 전시회 플랫폼
-- **역할:** 프론트엔드, UI/UX 디자인, CI/CD 파이프라인 개발
+- **역할:** 프론트엔드, UI/UX 디자인, CRUD 개발
 - **GitHub Repo:** [nyongnyam/Danchive](https://github.com/nyongnyam/Danchive)
 
 ---
